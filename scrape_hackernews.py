@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import argparse
 
 URL = "http://news.ycombinator.com"
 
