@@ -1,1 +1,1 @@
-# scrape_hackernews
+# hackernews_scraper
